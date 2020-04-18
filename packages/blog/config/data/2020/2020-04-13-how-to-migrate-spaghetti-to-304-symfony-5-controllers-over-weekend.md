@@ -291,7 +291,7 @@ We came up with this trick:
 {% extends "base.twig" %}
 
 {% block main %}
-    {{ render(controller('App\\Controller\\ContractController::content')) }}
+    {{ render(controller('App\\Controller\\ContactController::content')) }}
 {% endblock %}
 ```
 
