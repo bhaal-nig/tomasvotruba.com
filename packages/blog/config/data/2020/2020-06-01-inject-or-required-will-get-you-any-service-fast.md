@@ -200,7 +200,7 @@ What can you do about it?
 Well, in complicated times of circular dependencies, public property override and service juggling, it helps to get back to the basics: **what is the best use case for `@required`/`@inject`?**
 
 - Getting a dependency? **No**
-- [Eliminating visual dept](https://ocramius.github.io/blog/eliminating-visual-debt/)? **No**
+- [Eliminating visual debt](https://ocramius.github.io/blog/eliminating-visual-debt/)? **No**
 - Using the *my-favorite* framework the fullest? **No**
 
 Why add such a feature, if there is no reason to use it?
